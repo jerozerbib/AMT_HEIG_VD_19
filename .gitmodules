@@ -1,3 +1,6 @@
 [submodule "Teaching-HEIGVD-AMT-2019-Main"]
 	path = Teaching-HEIGVD-AMT-2019-Main
 	url = git@github.com:SoftEng-HEIGVD/Teaching-HEIGVD-AMT-2019-Main.git
+[submodule "labos/Labo1/Teaching-HEIGVD-AMT-MVC-simple-example"]
+	path = labos/Labo1/Teaching-HEIGVD-AMT-MVC-simple-example
+	url = git@github.com:SoftEng-HEIGVD/Teaching-HEIGVD-AMT-MVC-simple-example.git
