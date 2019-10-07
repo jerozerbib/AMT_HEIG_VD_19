@@ -7,3 +7,6 @@
 [submodule "labos/Teaching-HEIGVD-AMT-Discovery"]
 	path = labos/Teaching-HEIGVD-AMT-Discovery
 	url = git@github.com:SoftEng-HEIGVD/Teaching-HEIGVD-AMT-Discovery.git
+[submodule "Projet/Projet1/Teaching-HEIGVD-AMT-2019-Project-One"]
+	path = Projet/Projet1/Teaching-HEIGVD-AMT-2019-Project-One
+	url = git@github.com:AdamZouari/Teaching-HEIGVD-AMT-2019-Project-One.git
